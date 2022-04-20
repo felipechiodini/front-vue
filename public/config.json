@@ -1,0 +1,8 @@
+{
+    "development": {
+        "endpoint": "https://api.liveoficial.local/cashback"
+    },
+    "production": {
+        "endpoint": "https://api.liveoficial.com.br/cashback"
+    }
+}
